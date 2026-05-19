@@ -1,0 +1,6 @@
+pygame==2.5.2
+neat-python==0.92
+matplotlib==3.8.3
+tensorboard==2.16.2
+tensorboardX==2.6.2.2
+numpy==1.26.4

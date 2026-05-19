@@ -1,0 +1,19 @@
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs TensorBoard
+runs/
+
+# Fichiers de modèles IA générés (décommentez si vous ne voulez pas les push)
+# models/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
